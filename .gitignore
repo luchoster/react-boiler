@@ -8,6 +8,10 @@ yarn.lock
 # production
 /build
 
+# Axios API
+/src/lib/api/api-map.js
+
+
 # misc
 .DS_Store
 .env.local
